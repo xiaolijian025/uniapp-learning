@@ -1,5 +1,7 @@
 {
   "usingComponents": {
-    "uni-status-bar": "/components/uni-ui/uni-status-bar/uni-status-bar"
+    "uni-status-bar": "/components/uni-ui/uni-status-bar/uni-status-bar",
+    "w-button": "/components/watch-login/watch-button",
+    "w-input": "/components/watch-login/watch-input"
   }
 }

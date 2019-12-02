@@ -1,15 +1,15 @@
 
-.uni-swipe.data-v-36c7a59f {
+.uni-swipe.data-v-5b512a46 {
 	overflow: hidden;
 }
-.uni-swipe_content.data-v-36c7a59f {
+.uni-swipe_content.data-v-5b512a46 {
 	-webkit-box-flex: 1;
 	-webkit-flex: 1;
 	    -ms-flex: 1;
 	        flex: 1;
 	position: relative;
 }
-.uni-swipe_move-box.data-v-36c7a59f {
+.uni-swipe_move-box.data-v-5b512a46 {
 	
 	display: -webkit-box;
 	display: -webkit-flex;
@@ -23,7 +23,7 @@
 	    -ms-flex-direction: row;
 	        flex-direction: row;
 }
-.uni-swipe_box.data-v-36c7a59f {
+.uni-swipe_box.data-v-5b512a46 {
 	
 	width: 100%;
 	-webkit-flex-shrink: 0;
@@ -34,7 +34,7 @@
 	font-size: 14px;
 	background-color: #fff;
 }
-.uni-swipe_button-group.data-v-36c7a59f {
+.uni-swipe_button-group.data-v-5b512a46 {
 	
 	
 	display: -webkit-box;
@@ -51,7 +51,7 @@
 	    -ms-flex-direction: row;
 	        flex-direction: row;
 }
-.uni-swipe_button.data-v-36c7a59f {
+.uni-swipe_button.data-v-5b512a46 {
 	
 	
 	display: -webkit-box;
@@ -74,7 +74,7 @@
 	        align-items: center;
 	padding: 0 20px;
 }
-.uni-swipe_button-text.data-v-36c7a59f {
+.uni-swipe_button-text.data-v-5b512a46 {
 	
 	-webkit-flex-shrink: 0;
 	    -ms-flex-negative: 0;
@@ -82,7 +82,7 @@
 	
 	font-size: 14px;
 }
-.ani.data-v-36c7a59f {
+.ani.data-v-5b512a46 {
 	-webkit-transition-property: -webkit-transform;
 	transition-property: -webkit-transform;
 	-o-transition-property: transform;

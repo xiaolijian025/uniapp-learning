@@ -262,6 +262,7 @@
         ,{
             "path" : "pages/login/login",
             "style" : {
+				
 				"app-plus":{
 					"bounce":"none",
 					"scrollIndicator":"none",
@@ -269,6 +270,28 @@
 				}
 			}
         }
+		,{
+		    "path" : "pages/login/register",
+		    "style" : {
+				
+				"app-plus":{
+					"bounce":"none",
+					"scrollIndicator":"none",
+					"titleNView":false
+				}
+			}
+		}
+		,{
+		    "path" : "pages/login/forget",
+		    "style" : {
+				
+				"app-plus":{
+					"bounce":"none",
+					"scrollIndicator":"none",
+					"titleNView":false
+				}
+			}
+		}
         ,{
             "path" : "pages/msg-list/msg-list",
             "style" : {

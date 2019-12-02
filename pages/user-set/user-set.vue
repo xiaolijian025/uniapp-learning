@@ -57,8 +57,8 @@
 			// 退出登录
 			logoutEvent(){
 				this.$H.post('/logout',{},{
-					token:false,
-					toast:false
+					token:this.token,
+					// toast:false
 				}).then(res=>{
 					this.logout();
 					uni.showToast({
